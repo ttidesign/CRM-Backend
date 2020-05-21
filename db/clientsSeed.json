@@ -1,0 +1,42 @@
+[
+	{
+		"firstname": "Steve",
+		"lastname": "Jackson",
+		"email": "SteveJ@gmail.com",
+		"address": "427 Hemi Ave.",
+		"city": "Somewhere",
+		"state": "ST",
+		"zip": "75001",
+		"phone": "123-456-7890"
+	},
+	{
+		"firstname": "Joe",
+		"lastname": "Park",
+		"email": "JoeP@gmail.com",
+		"address": "425 Hemirone Ave.",
+		"city": "Fremont",
+		"state": "CA",
+		"zip": "94536",
+		"phone": "123-456-7890"
+	},
+	{
+		"firstname": "Jan",
+		"lastname": "Wright",
+		"email": "JanW@gmail.com",
+		"address": "427 Harry Ave.",
+		"city": "San Francisco",
+		"state": "CA",
+		"zip": "94016",
+		"phone": "123-456-7890"
+	},
+	{
+		"firstname": "Stacy",
+		"lastname": "Jackson",
+		"email": "StacyJ@gmail.com",
+		"address": "427 Ron Ave.",
+		"city": "Phoenix",
+		"state": "AZ",
+		"zip": "85001",
+		"phone": "123-456-7890"
+	}
+]

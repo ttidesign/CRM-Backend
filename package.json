@@ -1,0 +1,39 @@
+{
+	"name": "Group-project-CRM-backened",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js",
+		"test": "node_modules/.bin/mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/statst/Group-project-CRM-backened.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/statst/Group-project-CRM-backened/issues"
+	},
+	"homepage": "https://github.com/statst/Group-project-CRM-backened#readme",
+	"dependencies": {
+		"bcrypt": "^4.0.1",
+		"cors": "^2.8.5",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^5.9.14",
+		"passport": "^0.4.1",
+		"passport-jwt": "^4.0.0"
+	},
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^7.1.2",
+		"nodemon": "^2.0.4",
+		"superagent": "^5.2.2",
+		"supertest": "^4.0.2"
+	}
+}
